@@ -30,6 +30,8 @@ Charles (Chuck) Harris for the sorting code originally written for
     into the C code, release management, and documentation.
 David Huard for histogram improvements including 2-D and d-D code and
     other bug-fixes.
+Joaquin Abeiro for numerous hours of work on the code and another bug 
+    fixes.
 Stefan van der Walt for numerous bug-fixes, testing and documentation.
 Albert Strasheim for documentation, bug-fixes, regression tests and
     Valgrind expertise.
